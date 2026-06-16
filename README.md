@@ -22,4 +22,6 @@ Latitude: 50°S a 22°N
 Longitude: 100°W a 28°W
 
 Ceballos, J.C., W.F.A. Lima, J.M. Souza. Outgoing longwave radiation at the top of the atmosphere: Preliminary assessment using GOES-8 Imager data. Revista Brasileira de Geofísica, v. 21, p. 53-64, 2003.
+
+
 Código original em python desenvolvido por: Márcio Brito.
